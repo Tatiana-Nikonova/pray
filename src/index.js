@@ -8,7 +8,7 @@ import Rulls from './routes/rulls';
 import Rules from './routes/rules';
 import './App.css';
 
-const rootElement = document.getElementById('app');
+const rootElement = document.getElementById('root');
 ReactDOM.render(
   <BrowserRouter>
     <Routes>
