@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tatiana-Nikonova/pray/static/css/main.c341cbaf.css",
+    "main.js": "/Tatiana-Nikonova/pray/static/js/main.a31110a0.js",
+    "static/media/Vasilij.jpg": "/Tatiana-Nikonova/pray/static/media/Vasilij.021401dd88341227a94f.jpg",
+    "static/media/Valentina.jpg": "/Tatiana-Nikonova/pray/static/media/Valentina.9ffbd7127b4daaabc188.jpg",
+    "static/media/otrok.jpg": "/Tatiana-Nikonova/pray/static/media/otrok.11267149e4944d693096.jpg",
+    "static/media/Andrej.jpg": "/Tatiana-Nikonova/pray/static/media/Andrej.dba0fe55ee2f9684d870.jpg",
+    "index.html": "/Tatiana-Nikonova/pray/index.html",
+    "main.c341cbaf.css.map": "/Tatiana-Nikonova/pray/static/css/main.c341cbaf.css.map",
+    "main.a31110a0.js.map": "/Tatiana-Nikonova/pray/static/js/main.a31110a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c341cbaf.css",
+    "static/js/main.a31110a0.js"
+  ]
+}
